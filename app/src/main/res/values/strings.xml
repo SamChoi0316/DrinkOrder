@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="ice">Ice:</string>
+    <string name="sugar">Sugar:</string>
+    <string name="confirm_order">Confirm order</string>
+    <string name="select">Select</string>
+    <string name="order">Order:</string>
+    <string name="drink">Drink:</string>
+    <string name="drink2">Drink</string>
+    <string name="sugar2">Sugar</string>
+    <string name="little">Little</string>
+    <string name="half">Half</string>
+    <string name="full">Full</string>
+    <string name="ice2">Ice</string>
+    <string name="slight">Slight</string>
+    <string name="little2">Little</string>
+    <string name="normal">Normal</string>
+    <string name="nuii1">nuII</string>
+    <string name="nuii2">nuII</string>
+    <string name="nuii3">nuII</string>
+    <string name="send_out">Send out</string>
+    <string name="none">None</string>
+</resources>
